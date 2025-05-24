@@ -46,24 +46,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
 </p>
 
----
-
-<h3 align="center">
-  🧠 Projects
-</h3>
-
-<p align="center">
-  <strong>PocketPT – AI-Powered Physical Therapy App</strong><br/>
-  Personalized rehabilitation using pose estimation and facial expression pain recognition.<br/>
-  Built with Python, Firebase, CNN, and LSTM.<br/><br/>
-
-  <strong>Marine Debris Prediction Web App</strong><br/>
-  Machine learning model for forecasting coastal pollution levels in the Philippines.<br/>
-  Tools: Linear Regression, Decision Tree, JS, Python.
-</p>
-
----
-
 <h3 align="center">
   📚 Currently Learning
 </h3>
@@ -73,16 +55,4 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-</p>
-
----
-
-<h3 align="center">
-  📫 Contact Me
-</h3>
-
-<p align="center">
-  <a href="mailto:panganiban.fvj@gmail.com"><strong>📧 panganiban.fvj@gmail.com</strong></a><br/>
-  📱 +63 921 068 5821<br/>
-  🌐 <a href="https://github.com/YOUR-GITHUB-USERNAME">github.com/YOUR-GITHUB-USERNAME</a>
 </p>
