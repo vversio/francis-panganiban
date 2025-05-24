@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTEyNzI5ZGFmY2Y4NDQ2ZDNmYWM0OTg5OTJmZTgwZWVjMjUyM2MyYSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/mQVGgQvPdjYc45XAXo/giphy.gif" width="200"/>
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXlvem1vOHN3MzRndGFhNWE3NDBzNDk4ZWNhdnB4eW1kOG9ua29ncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" width="200"/>
 </div>
 
 <div id="badges" align="center">
@@ -26,7 +26,7 @@
 </p>
 
 <p align='center'>
-  Aspiring Software Engineer | Machine Learning & Computer Vision Enthusiast | Builder of <strong>PocketPT</strong>
+  Aspiring Software Engineer | Machine Learning & Computer Vision Enthusiast
 </p>
 
 ---
@@ -51,8 +51,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
 </p>
